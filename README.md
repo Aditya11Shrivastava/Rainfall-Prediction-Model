@@ -6,19 +6,19 @@ The dataset used in this project consists of approximately 1.4 million records w
 # Model Evaluation
 • Various machine learning models were tested and evaluated for performance, including:
 
-• Logistic Regression
+• Logistic Regression: 86% accuracy
 
-• Decision Tree
+• Decision Tree: 88% accuracy
 
-• Neural Network
+• Neural Network: 94% accuracy
 
-• Random Forest
+• Random Forest: 97% accuracy
 
-• LightGBM
+• LightGBM: 93% accuracy
 
-• CatBoost
+• CatBoost: 97.5% accuracy
 
-• XGBoost
+• XGBoost: 98% accuracy
 
 # Evaluation Metrics
 • Accuracy: The primary metric to assess the models' performance in predicting rainfall.
@@ -27,10 +27,10 @@ The dataset used in this project consists of approximately 1.4 million records w
 
 • Cohen’s Kappa: Used to measure the agreement between predicted and actual values, especially when dealing with imbalanced data.
 
-• Execution Time: For each model, the time taken for training and prediction was recorded.
+• Execution Time: The time taken for training and prediction was recorded for each model.
 
 # Handling Imbalanced Data
-• Since the dataset was highly imbalanced (78% of instances labeled as "No Rain"), oversampling was performed to balance the data for better model training.
+• Since the dataset was highly imbalanced (78% of instances labelled as "No Rain"), oversampling was performed to balance the data for better model training.
 
 # Model Comparison
 • A detailed comparison was made using accuracy and time taken by each model. The best-performing models were XGBoost and CatBoost based on a balance of accuracy and execution time.
