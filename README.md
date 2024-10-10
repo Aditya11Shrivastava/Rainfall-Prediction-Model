@@ -34,3 +34,4 @@ The dataset used in this project consists of approximately 1.4 million records w
 
 # Model Comparison
 • A detailed comparison was made using accuracy and time taken by each model. The best-performing models were XGBoost and CatBoost based on a balance of accuracy and execution time.
+• However, if speed is an important thing to consider, we can stick with Random Forest instead of XGBoost or CatBoost.
