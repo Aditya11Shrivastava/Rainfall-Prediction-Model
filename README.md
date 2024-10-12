@@ -1,4 +1,4 @@
-# Rainfall-Prediction-Model
+# Rainfall Prediction Model
 
 # Dataset
 The dataset used in this project consists of approximately 1.4 million records with meteorological data to predict whether it will rain tomorrow.
