@@ -1,7 +1,7 @@
 # Rainfall Prediction Model
 
 # Dataset
-The dataset used in this project consists of approximately 1.4 million records with meteorological data to predict whether it will rain tomorrow.
+The dataset used in this project consists of approximately 1.42 lakh records with meteorological data to predict whether it will rain tomorrow.
 
 # Model Evaluation
 • Various machine learning models were tested and evaluated for performance, including:
